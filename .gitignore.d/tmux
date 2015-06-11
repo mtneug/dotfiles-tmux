@@ -1,0 +1,6 @@
+*
+!/.gitignore.d
+!/.gitignore.d/tmux
+!/.tmux.conf
+!/.tmuxinator
+!/.tmuxinator/.keep
